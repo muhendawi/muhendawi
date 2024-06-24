@@ -1,5 +1,5 @@
 
-![79731568097599 5b50bca477735](https://github.com/muhendawi/muhendawi/assets/91012106/920305b5-8cc9-475c-82e9-8ba469542f7f)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhendawi&show_icons=true)](https://github.com/muhendawi/github-readme-stats)
 
 - 👋 Hi there, I'm Muhammad, a developer, a father and a loving husband
 - 🔭 I’m currently working on kanban like app, UI design from frontendmentor.io
