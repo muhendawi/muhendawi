@@ -1,5 +1,7 @@
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=muhendawi&show_icons=true">
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhendawi&show_icons=true)](https://github.com/muhendawi/github-readme-stats)
 
 
 <!--
