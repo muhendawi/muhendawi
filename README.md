@@ -1,11 +1,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhendawi&show_icons=true)](https://github.com/muhendawi/github-readme-stats)
 
+
+<!--
 - 👋 Hi there, I'm Muhammad, a developer, a father and a loving husband
 - 🔭 I’m currently working on kanban like app, UI design from frontendmentor.io
 - 🌱 I’m currently learning next.js
 - 📫 How to reach me: muhendawi@gmail.com
-<!--
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
