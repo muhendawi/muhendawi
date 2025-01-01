@@ -1,6 +1,6 @@
 
-- 👋 Hi there, I'm Muhammad, a react developer, a father and a loving husband
-- 🔭 I’m currently working on kanban like app, UI design from frontendmentor.io
+- 👋 Hi there, I'm Muhammad, a react developer, father and a loving husband
+- 🔭 I’m currently working on two projects: My personal website and a complete working online store.
 - 🌱 I’m currently learning react router and react query
 - 📫 How to reach me: muhendawi@gmail.com
 
