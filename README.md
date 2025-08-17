@@ -58,6 +58,15 @@
 
 ###
 
+
+
+
+
+
+
+
+
+<!--
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -70,12 +79,6 @@
 
 
 
-
-
-
-
-
-<!--
 
 - 👋 Hi there, I'm Muhammad, a react developer, father and a loving husband
 - 🔭 I’m currently working on two projects: My personal website and a complete working online store.
